@@ -11,3 +11,5 @@ Scrimba Advent Calendar Challenge Solutions
 - [Stack Overflow](https://stackoverflow.com/questions/5915096/get-a-random-item-from-a-javascript-array) - Christmas Card Writer
 - [CSS Tricks](https://css-tricks.com/restart-css-animation/) - Bell Animator
 - [Stack Overflow](https://stackoverflow.com/questions/46107840/how-to-use-innerhtml-to-show-all-the-contents-of-a-object) - Naughty List
+- [Modern CSS](https://moderncss.dev/pure-css-custom-checkbox-style/) - Custom Shopping Checkboxes
+- [Blog](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html) - Custome Shopping Checkboxes

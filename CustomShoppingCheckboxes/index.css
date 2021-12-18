@@ -1,0 +1,88 @@
+:root {
+    --wine-red: #C7375F;
+    --bright-red: #D42D2F;
+    --dark-green: #344D2F;
+    --light-green: #77A047;
+    --gold: #FAC57D;
+    --snow: #F0F4F7;
+  }
+  
+  html, body {
+      margin: 0;
+      padding: 0;
+  }
+  
+  body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+      color: var(--snow);
+      background-color: var(--bright-red);
+  }
+  
+  .checklist {
+      position: relative;
+      background: var(--snow);
+      color: var(--dark-green);
+      display: flex;
+      justify-content: center;
+      align-items:  center;
+      flex-direction: column;
+      min-width: 200px;
+      min-height: 200px;
+      max-width: 5ch;
+      padding: 1em 2em;
+      border-radius: 5px;
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  }
+  
+  input[type=checkbox]:checked + label.strikethrough span{
+    text-decoration: line-through;
+    font-weight: normal;
+  }
+
+  .checklist-item {
+    justify-content: center;
+  }
+
+  input[type=checkbox] {
+    appearance: none;
+    margin: 0;
+    background: #fff;
+    border: 1px solid #333;
+    height: 1.5em;
+    width: 1.5em;
+    display: inline-block;
+    border-radius: 100%;
+    vertical-align: text-bottom;
+    position: relative;
+  }
+
+  input[type=checkbox]::before {
+    content: '';
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    top: 0;
+  }
+
+  input[type=checkbox]:checked::before {
+    border-right: 3px solid #000;
+    border-bottom: 3px solid #000;
+    height: 50%;
+    width: 30%;
+    transform: rotate(45deg) translateY(-20%) translateX(-10%);
+  }
+  
+  /* Task:
+  - Write the CSS to create custom checkboxes for our shopping list.
+  
+  Stretch goals: 
+  - Add a different random check for each item.
+  - Use JavaScript to match the custom check to the item listed, e.g. socks would have socks as the checkmark. */
