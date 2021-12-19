@@ -13,3 +13,4 @@ Scrimba Advent Calendar Challenge Solutions
 - [Stack Overflow](https://stackoverflow.com/questions/46107840/how-to-use-innerhtml-to-show-all-the-contents-of-a-object) - Naughty List
 - [Modern CSS](https://moderncss.dev/pure-css-custom-checkbox-style/) - Custom Shopping Checkboxes
 - [Blog](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html) - Custome Shopping Checkboxes
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Dessert Decider
