@@ -15,3 +15,6 @@ Scrimba Advent Calendar Challenge Solutions
 - [Blog](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html) - Custome Shopping Checkboxes
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Dessert Decider
 - [Stack Overflow](https://stackoverflow.com/questions/13153903/how-to-get-a-value-from-html5-color-picker) - Snowman Customizer
+- [Stack Overflow](https://stackoverflow.com/questions/29971898/how-to-create-an-accurate-timer-in-javascript) - Christmas Stress Buster
+- [Stack Overflow](https://stackoverflow.com/questions/19429890/javascript-timer-just-for-minutes-and-seconds/19430179) - Christmas Stress Buster
+- [Stack Overflow](https://stackoverflow.com/questions/54598559/clearing-an-anonymous-setinterval) - Christmas Stress Buster
