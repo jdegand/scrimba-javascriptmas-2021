@@ -1,9 +1,8 @@
-# scrimba-javascriptmas-2021
-Scrimba Advent Calendar Challenge Solutions
+# Scrimba 2021 Advent Calendar Challenge Solutions
 
-[Scrimba](https://scrimba.com/learn/javascriptmas2021)
+[Scrimba](https://v1.scrimba.com/playlist/p736YhZ)
 
-### Resources
+## Resources
 
 - [Unicode Table](https://unicode-table.com/en/2603/) - Turn on the Decorations
 - [Stack Overflow](https://stackoverflow.com/questions/37566597/why-doesnt-includes-work-with-classlist/37566648) - Text Christmassifier
@@ -18,3 +17,4 @@ Scrimba Advent Calendar Challenge Solutions
 - [Stack Overflow](https://stackoverflow.com/questions/29971898/how-to-create-an-accurate-timer-in-javascript) - Christmas Stress Buster
 - [Stack Overflow](https://stackoverflow.com/questions/19429890/javascript-timer-just-for-minutes-and-seconds/19430179) - Christmas Stress Buster
 - [Stack Overflow](https://stackoverflow.com/questions/54598559/clearing-an-anonymous-setinterval) - Christmas Stress Buster
+  
