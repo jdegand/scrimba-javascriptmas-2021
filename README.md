@@ -17,4 +17,3 @@
 - [Stack Overflow](https://stackoverflow.com/questions/29971898/how-to-create-an-accurate-timer-in-javascript) - Christmas Stress Buster
 - [Stack Overflow](https://stackoverflow.com/questions/19429890/javascript-timer-just-for-minutes-and-seconds/19430179) - Christmas Stress Buster
 - [Stack Overflow](https://stackoverflow.com/questions/54598559/clearing-an-anonymous-setinterval) - Christmas Stress Buster
-  
