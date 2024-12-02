@@ -41,8 +41,6 @@ function calculateSpeed() {
     let distance = locationObj.distanceFromPrevDestination;
 
     timeTaken = time.value
-
-    //console.log(typeof timeTaken);
     
     // Task:
     // - Retrieve distance from previous destination from array of objects.
