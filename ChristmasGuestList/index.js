@@ -9,7 +9,7 @@ let guests = ["Partner", "Nice Relative 1", "Nice Relative 2", "Evil Relative", 
 
 function renderList(){
     guestList.innerText = '';
-    for(var i = 0; i < guests.length; i++){
+    for(let i = 0; i < guests.length; i++){
         const li = document.createElement('li');
         li.innerText = guests[i];
         guestList.append(li);
@@ -17,7 +17,6 @@ function renderList(){
 }
 
 btn.addEventListener('click', (e)=> {
-    //console.log(input.value)
     guests.push(input.value);
     renderList()
 })
